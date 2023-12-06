@@ -83,13 +83,13 @@ body {
 }
 
 .playlist__artists {
-    font-weight: 300;
-    font-size: 16px;
-    color: #8A8A8A;
+    color: #FFF;
 }
 
 .playlist__artists span {
-    color: #FFF;
+    font-weight: 300;
+    font-size: 16px;
+    color: #8A8A8A;
 }
 
 .tracks__list {
@@ -109,6 +109,9 @@ body {
 }
 
 .track__artist {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
     font-size: 12px;
 }
 
