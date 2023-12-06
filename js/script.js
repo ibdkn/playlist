@@ -19,21 +19,21 @@ let playlist1 = {
             artistName: "Guns N' Roses",
             title: "This I Love",
             fileUrl: "./tracks/Guns_N'_Roses_This_I_Love.mp3",
-            isHot: true,
+            isHot: false,
         },
         {
             coverImageUrl: "./img/track3.jpg",
             artistName: "Metallica",
             title: "Master Of Puppets",
             fileUrl: "./tracks/Metallica_Master_Of_Puppets.mp3",
-            isHot: true,
+            isHot: false,
         },
         {
             coverImageUrl: "./img/track4.jpg",
             artistName: "Iron Maiden",
             title: "Wasted Ears",
             fileUrl: "./tracks/Iron_Maiden_Wasted _ears.mp3",
-            isHot: true,
+            isHot: false,
         },
     ]
 }
@@ -57,21 +57,21 @@ let playlist2 = {
             artistName: "Guns N' Roses",
             title: "This I Love",
             fileUrl: "./tracks/Guns_N'_Roses_This_I_Love.mp3",
-            isHot: true,
+            isHot: false,
         },
         {
             coverImageUrl: "./img/track3.jpg",
             artistName: "Metallica",
             title: "Master Of Puppets",
             fileUrl: "./tracks/Metallica_Master_Of_Puppets.mp3",
-            isHot: true,
+            isHot: false,
         },
         {
             coverImageUrl: "./img/track4.jpg",
             artistName: "Iron Maiden",
             title: "Wasted Ears",
             fileUrl: "./tracks/Iron_Maiden_Wasted _ears.mp3",
-            isHot: true,
+            isHot: false,
         },
     ]
 }
